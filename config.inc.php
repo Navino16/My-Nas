@@ -11,7 +11,7 @@
 // For examples see http://pear.php.net/manual/en/package.database.mdb2.intro-dsn.php
 // NOTE: for SQLite use absolute path (Linux): 'sqlite:////full/path/to/sqlite.db?mode=0646'
 //       or (Windows): 'sqlite:///C:/full/path/to/sqlite.db'
-$config['db_dsnw'] = 'mysql://roundcubemail:roundcubmail@localhost/roundcubemail';
+$config['db_dsnw'] = 'mysql://roundcubemail:roundcubemail@localhost/roundcubemail';
 
 // ----------------------------------
 // IMAP
