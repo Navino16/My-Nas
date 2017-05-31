@@ -64,7 +64,7 @@ $config['support_url'] = '';
 // This key is used for encrypting purposes, like storing of imap password
 // in the session. For historical reasons it's called DES_key, but it's used
 // with any configured cipher_method (see below).
-$config['des_key'] = 'vVPoSITJPGdkPbCoRQFE9YmA';
+$config['des_key'] = 'MJ0qt9PqnFwc5LvZYjLLYTnW';
 
 // Automatically add this domain to user names for login
 // Only for IMAP servers that require full e-mail addresses for login
